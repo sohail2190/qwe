@@ -1,0 +1,19 @@
+div{
+    padding: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.a1{
+background-color: rgb(247, 162, 6, 0.7);
+width: 200px;
+height: 400px;
+}
+.a2{
+    background-color: rgb(125, 41, 202, 0.4);
+}
+button{
+    font-size: 13px;
+    color: black;
+    background-color: aquamarine;
+    padding: 6px;
+}
